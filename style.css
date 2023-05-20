@@ -703,7 +703,7 @@ h4 {
 }
 
 
-@media only screen and (max-width: 430px) {
+@media only screen and (max-width: 600px) {
 
   .header{
     display: grid;
